@@ -1,0 +1,23 @@
+.jumbotron{
+  background-color:darkorange;
+  }
+  .header{
+    color:white;
+    text-align: center;
+  }
+  .sidebar{
+    float: left;
+    background-color:darkorange;
+    height:90%;
+    width:30%;
+  }
+.header2{
+  color: white;
+}
+.header3{
+  color:white;
+  font-size:30px;
+}
+p{
+  font-size: 20px;
+}
