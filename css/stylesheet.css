@@ -7,15 +7,15 @@
   }
   .sidebar{
     float: left;
-    background-color:darkorange;
+    background-color:lightgrey;
     height:90%;
     width:30%;
   }
 .header2{
-  color: white;
+  color: black;
 }
 .header3{
-  color:white;
+  color:black;
   font-size:30px;
 }
 p{
