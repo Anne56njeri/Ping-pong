@@ -1,5 +1,6 @@
 .jumbotron{
   background-color:darkorange;
+  border:1px solid grey;
   }
   .header{
     color:white;
@@ -9,7 +10,9 @@
     float: left;
     background-color:lightgrey;
     height:90%;
-    width:30%;
+    width:35%;
+    border-radius: 10px;
+    border: 1px solid grey;
   }
 .header2{
   color: black;
@@ -20,4 +23,7 @@
 }
 p{
   font-size: 20px;
+}
+.pingpong{
+  float:right;
 }
