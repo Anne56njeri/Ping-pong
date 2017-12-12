@@ -12,6 +12,12 @@ $(document).ready(function(){
 var firstnumber =function(submitted){
   if (submitted%3===0){
     return "ping";
-  } else
-  return "pong";
+  } else if(submitted%5===0){
+    return "pong";
+  } else if (submitted%15===0) {
+    return "ping pong";
+  }else{
+    return "you lose"
+  }
+
 };
